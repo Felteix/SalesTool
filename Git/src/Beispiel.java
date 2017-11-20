@@ -11,5 +11,7 @@ public class Beispiel {
 	private static void displayGreeting(){
 		System.out.println("Hello happy sales!");
 		System.out.println("Shows all sales");
+		
+		System.out.println("Test1");
 	}
 }
