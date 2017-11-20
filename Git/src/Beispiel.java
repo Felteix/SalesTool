@@ -13,5 +13,6 @@ public class Beispiel {
 		System.out.println("Shows all sales");
 		
 		System.out.println("Test1");
+		System.out.println("Test2");
 	}
 }
